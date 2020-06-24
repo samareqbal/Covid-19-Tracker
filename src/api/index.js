@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-var PORT = process.env.PORT;
+
 
 const url = 'https://covid19.mathdro.id/api';
 
